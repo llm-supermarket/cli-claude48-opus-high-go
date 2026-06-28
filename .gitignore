@@ -1,0 +1,15 @@
+# Build output
+/app.exe
+/cli-claude48-opus-high-go
+/cli-claude48-opus-high-go.exe
+cli-claude48-opus-high-go-*
+/artifacts/
+/dist/
+
+# Scratch / temp
+*.tmp
+*.out
+
+# OS
+.DS_Store
+Thumbs.db
