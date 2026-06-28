@@ -1,0 +1,17 @@
+{
+  "homepage": "https://github.com/llm-supermarket/cli-claude48-opus-high-go",
+  "description": "Encrypt and decrypt files using rclone's crypt defaults",
+  "version": "0.0.0",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/llm-supermarket/cli-claude48-opus-high-go/releases/download/v0.0.0/cli-claude48-opus-high-go-windows-amd64.exe",
+      "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bin": [
+        [
+          "cli-claude48-opus-high-go-windows-amd64.exe",
+          "cli-claude48-opus-high-go"
+        ]
+      ]
+    }
+  }
+}
